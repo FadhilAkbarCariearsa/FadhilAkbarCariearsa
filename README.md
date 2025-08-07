@@ -63,5 +63,3 @@
 > **🧠 Grid-based AI Simulation**  
 > A Python-based simulation that models exponential growth on a 2D grid with dynamic limitations.  
 > 💡 _Goal: Combine math, code, and logic to simulate real-world patterns_
-
----
