@@ -1,65 +1,61 @@
 <h1 align="center">Hi 👋, I'm Fadhil Akbar Cariearsa</h1>
-<h3 align="center">🌱 Junior Developer | Python & Roblox Enthusiast</h3>
+<h3 align="center">Junior Developer | Python & Roblox Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadhilakbarcariearsa&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilakbarcariearsa" />
+  <img src="https://komarev.com/ghpvc/?username=fadhilakbarcariearsa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/fadhilakbarcariearsa"><img src="https://img.shields.io/github/followers/fadhilakbarcariearsa?label=Follow&style=social" alt="GitHub Followers" /></a>
 </p>
 
 ---
 
-### 🔭 I’m currently working on
-- 🔬 Mathematical simulation in Python
-- 🧩 Dynamic grid system on Roblox Studio
-- 🚀 Exploring AI and game development
+### 🔭 Current Projects
+- 🔬 **Mathematical Simulations** in Python (NumPy, Matplotlib)
+- 🧩 **Dynamic Grid System** in Roblox Studio (Lua)
+- 🚀 Exploring AI-driven game development
+
+### 🌱 Learning Focus
+- Advanced Python (OOP, Pandas, SciPy)
+- Lua scripting for Roblox
+- Algorithms & Data Structures
+
+### 📫 Connect with Me
+- 💌 Email: [fadhilakbarcariearsaindonesia@gmail.com](mailto:fadhilakbarcariearsaindonesia@gmail.com)
+- 📄 GitHub: [fadhilakbarcariearsa](https://github.com/fadhilakbarcariearsa)
+
+### 🧠 Fun Facts
+- Started coding at 13
+- Passionate about logic puzzles & futuristic apps
 
 ---
 
-### 🌱 I’m currently learning
-- Advanced Python (OOP, NumPy, Matplotlib)
-- Lua scripting in Roblox
-- Algorithms and data structures
-
----
-
-### 📫 How to reach me
-- 💌 Email: `fadhilakbarcariearsaindonesia@gmail.com`
-
----
-
-### 🧠 Fun facts
-- I love solving logic puzzles & IQ tests
-- I started coding at 13 and dream of building futuristic apps
-
----
-
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadhilakbarcariearsa&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fadhilakbarcariearsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilakbarcariearsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fadhilakbarcariearsa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fadhilakbarcariearsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,lua,js,html,git" />
 </p>
 
 ---
 
-## ⚡ Latest Project
-> **🧠 Grid-based AI Simulation**  
-> A Python-based simulation that models exponential growth on a 2D grid with dynamic limitations.  
-> 💡 _Goal: Combine math, code, and logic to simulate real-world patterns_
+## ⚡ Featured Project
+**🧠 Grid-Based AI Simulation**  
+A Python project modeling exponential growth on a 2D grid with dynamic constraints.  
+💡 *Goal: Simulate real-world patterns using math and logic.*  
+🔗 [View Project](https://github.com/fadhilakbarcariearsa/grid-ai-simulation)
+
+---
+
+<p align="center">
+  <a href="https://github.com/fadhilakbarcariearsa?tab=repositories"><img src="https://img.shields.io/badge/-More%20Projects-blue?style=flat&logo=github" alt="More Projects" /></a>
+</p>
