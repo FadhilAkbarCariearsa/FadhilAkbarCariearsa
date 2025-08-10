@@ -1,61 +1,45 @@
-<h1 align="center">Hi 👋, I'm Fadhil Akbar Cariearsa</h1>
-<h3 align="center">Junior Developer | Python & Roblox Enthusiast</h3>
+<div align="center">
+  <h1>Fadhil Akbar Cariearsa</h1>
+  <h3>Student Developer | Python & Roblox Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadhilakbarcariearsa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/fadhilakbarcariearsa"><img src="https://img.shields.io/github/followers/fadhilakbarcariearsa?label=Follow&style=social" alt="GitHub Followers" /></a>
-</p>
+  [![GitHub](https://img.shields.io/github/followers/fadhilakbarcariearsa?label=Follow&style=social)](https://github.com/FadhilAkbarCariearsa)
+  [![Views](https://komarev.com/ghpvc/?username=fadhilakbarcariearsa&style=flat&color=0D9488)](https://github.com/FadhilAkbarCariearsa)
+</div>
 
----
+### 💻 Professional Summary
+```yaml
+role: Student Developer
+expertise: 
+  - Mathematical Simulations
+  - Game Development
+  - AI Implementation
+technologies: [Python, Lua, JavaScript, Git]
+```
 
-### 🔭 Current Projects
-- 🔬 **Mathematical Simulations** in Python (NumPy, Matplotlib)
-- 🧩 **Dynamic Grid System** in Roblox Studio (Lua)
-- 🚀 Exploring AI-driven game development
+### 🚀 Current Projects
+- **AI Grid Simulation** - Mathematical modeling using Python & NumPy
+- **Dynamic Systems** - Advanced game mechanics in Roblox/Lua
+- **Data Visualization** - Real-time analytics implementation
 
-### 🌱 Learning Focus
-- Advanced Python (OOP, Pandas, SciPy)
-- Lua scripting for Roblox
-- Algorithms & Data Structures
+### 🛠️ Tech Stack
+<div align="center">
 
-### 📫 Connect with Me
-- 💌 Email: [fadhilakbarcariearsaindonesia@gmail.com](mailto:fadhilakbarcariearsaindonesia@gmail.com)
-- 📄 GitHub: [fadhilakbarcariearsa](https://github.com/fadhilakbarcariearsa)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🧠 Fun Facts
-- Started coding at 13
-- Passionate about logic puzzles & futuristic apps
+</div>
 
----
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fadhilakbarcariearsa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadhilakbarcariearsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilakbarcariearsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%" />
-</p>
+### 📫 Contact Me!
+- Email: [fadhilakbarcariearsaindonesia@gmail.com](mailto:fadhilakbarcariearsaindonesia@gmail.com)
+- GitHub: [@fadhilakbarcariearsa](https://github.com/fadhilakbarcariearsa)
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fadhilakbarcariearsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,js,html,git" />
-</p>
-
----
-
-## ⚡ Featured Project
-**🧠 Grid-Based AI Simulation**  
-A Python project modeling exponential growth on a 2D grid with dynamic constraints.  
-💡 *Goal: Simulate real-world patterns using math and logic.*  
-🔗 [View Project](https://github.com/fadhilakbarcariearsa/grid-ai-simulation)
-
----
-
-<p align="center">
-  <a href="https://github.com/fadhilakbarcariearsa?tab=repositories"><img src="https://img.shields.io/badge/-More%20Projects-blue?style=flat&logo=github" alt="More Projects" /></a>
-</p>
+<div align="center">
+  <sub>Last updated: 2025-08-10 12:52:46 UTC</sub>
+</div>
