@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Fadhil Akbar Cariearsa**
-### *Student Developer | Python & Roblox Specialist*
+### *Student Developer | Python*
 
 [![GitHub Followers](https://img.shields.io/github/followers/FadhilAkbarCariearsa?label=Follow&style=social)](https://github.com/FadhilAkbarCariearsa)
 [![Profile Views](https://komarev.com/ghpvc/?username=FadhilAkbarCariearsa&color=blueviolet&style=flat-square)](https://github.com/FadhilAkbarCariearsa)
